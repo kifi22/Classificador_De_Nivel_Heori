@@ -9,7 +9,7 @@ let ranking_1 = "Ferro"
 {
     switch (Ferro){
         case Ferro:
-        console.log ("O heroi de nome " + nome_heroi + " está no nivel " + ranking_1)
+        console.log ("O heroi de nome " + nome_heroi + " está no nivel de " + ranking_1)
         break
     }
 
@@ -22,7 +22,7 @@ let ranking_2 = "Bronze"
 {
     switch (Bronze){
         case Bronze:
-        console.log ("O heroi de nome " + nome_heroi + " está no nivel " + ranking_2)
+        console.log ("O heroi de nome " + nome_heroi + " está no nivel de " + ranking_2)
         break
     }
 
@@ -35,7 +35,7 @@ let ranking_3 = "Prata"
 {
     switch (Prata){
         case Prata:
-        console.log ("O heroi de nome " + nome_heroi + " está no nivel " + ranking_3)
+        console.log ("O heroi de nome " + nome_heroi + " está no nivel de " + ranking_3)
         break
     }
 }
@@ -47,7 +47,7 @@ let ranking_4 = "Ouro"
 {
     switch (Ouro){
         case Ouro:
-        console.log ("O heroi de nome " + nome_heroi + " está no nivel " + ranking_4)
+        console.log ("O heroi de nome " + nome_heroi + " está no nivel de " + ranking_4)
         break
     }
 }
@@ -59,7 +59,7 @@ let ranking_5 = "Platina"
 {
     switch (Platina){
         case Platina:
-        console.log ("O heroi de nome " + nome_heroi + " está no nivel " + ranking_5)
+        console.log ("O heroi de nome " + nome_heroi + " está no nivel de " + ranking_5)
         break
     }
 }
@@ -71,7 +71,7 @@ let ranking_6 = "Ascendente"
 {
     switch (Ascendente){
         case Ascendente:
-        console.log ("O heroi de nome " + nome_heroi + " está no nivel " + ranking_6)
+        console.log ("O heroi de nome " + nome_heroi + " está no nivel de " + ranking_6)
         break
     }
 }
@@ -83,7 +83,7 @@ let ranking_7 = "Imortal"
 {
     switch (Imortal){
         case Imortal:
-        console.log ("O heroi de nome " + nome_heroi + " está no nivel " + ranking_7)
+        console.log ("O heroi de nome " + nome_heroi + " está no nivel de " + ranking_7)
         break
     }
 }
@@ -95,7 +95,7 @@ let ranking_8 = "Radiante"
 {
     switch (Radiante){
         case Radiante:
-        console.log("O heroi de nome " + nome_heroi + " está no nivel " + ranking_8)
+        console.log("O heroi de nome " + nome_heroi + " está no nivel de " + ranking_8)
         break
     }
 }
